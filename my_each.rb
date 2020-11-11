@@ -13,6 +13,6 @@ end
 =begin
 #test call below:
 my_each([1, 2, 3, 4]) do |i|
-  puts i
+  prints i
 end
 =end
